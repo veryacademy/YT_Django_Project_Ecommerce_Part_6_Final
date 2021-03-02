@@ -1,0 +1,5 @@
+
+
+
+# Migrations
+python manage.py showmigrations
