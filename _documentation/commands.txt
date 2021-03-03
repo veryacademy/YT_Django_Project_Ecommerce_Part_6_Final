@@ -1,4 +1,4 @@
-
+py manage.py makemigrations --check
 
 
 # Migrations
